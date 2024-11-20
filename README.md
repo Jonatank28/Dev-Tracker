@@ -61,7 +61,7 @@ Aplicativo para explorar informações de usuários do GitHub. Permite buscar us
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/Jonatank28/Dev-Tracker.git
    ```
 2. Instale as dependências:
    `npm install` ou `yarn install`
@@ -71,7 +71,7 @@ Aplicativo para explorar informações de usuários do GitHub. Permite buscar us
 
 ### **Instalação do apk**
 
-- Link para baixar o apk: [https://github.com/brunocarvalho-dev/dev_tracker/releases](https://github.com/brunocarvalho-dev/dev_tracker/releases)
+- Link para baixar o apk: [https://expo.dev/artifacts/eas/qdsCvLPK8r2DWxXBgbunMy.apk](https://expo.dev/artifacts/eas/qdsCvLPK8r2DWxXBgbunMy.apk)
 
 ## **Demonstração**
 
@@ -80,21 +80,21 @@ Abaixo estão algumas imagens demonstrando as funcionalidades do aplicativo:
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 0 1 48%; margin-bottom: 20px;">
     <h3>Demo 1</h3>
-    <img src="assets/images/demo1.jpeg" alt="Demo 1" style="width: 150px; height: auto;">
+    <img src="assets/images/demo1.jpeg" alt="Demo 1" style="width: 200px; height: auto;">
   </div>
 
   <div style="flex: 0 1 48%; margin-bottom: 20px;">
     <h3>Demo 2</h3>
-    <img src="assets/images/demo2.jpeg" alt="Demo 2" style="width: 150px; height: auto;">
+    <img src="assets/images/demo2.jpeg" alt="Demo 2" style="width: 200px; height: auto;">
   </div>
 
   <div style="flex: 0 1 48%; margin-bottom: 20px;">
     <h3>Demo 3</h3>
-    <img src="assets/images/demo3.jpeg" alt="Demo 3" style="width: 150px; height: auto;">
+    <img src="assets/images/demo3.jpeg" alt="Demo 3" style="width: 200px; height: auto;">
   </div>
 
   <div style="flex: 0 1 48%; margin-bottom: 20px;">
     <h3>Demo 4</h3>
-    <img src="assets/images/demo4.jpeg" alt="Demo 4" style="width: 150px; height: auto;">
+    <img src="assets/images/demo4.jpeg" alt="Demo 4" style="width: 200px; height: auto;">
   </div>
 </div>
